@@ -18,8 +18,7 @@
         <!-- another box label post -->
         <label for="post">Post: </label>
         
-        <!-- text area allows to type a lot a text and span many lines   -->
-        <!-- text area can show on multiple lines and can be expanded -->
+        
         <textarea name="post"></textarea>
     </div>
     
